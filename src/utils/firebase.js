@@ -2,12 +2,12 @@ import firebase from "firebase/app";
 import "firebase/database";
 
 const devConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
-  authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-  projectId: process.env.REACT_APP_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_APP_ID,
+  apiKey: "AIzaSyCJ8TOZ6dzgbGV0y460v4gPefM1WKI26yg",
+  authDomain: "contactsapp-14f7a.firebaseapp.com",
+  projectId: "contactsapp-14f7a",
+  storageBucket: "contactsapp-14f7a.appspot.com",
+  messagingSenderId: "892540941182",
+  appId: "1:892540941182:web:a5364c7fcc08be7f13392f"
 };
 
 const prodConfig = {};
