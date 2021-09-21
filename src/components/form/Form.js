@@ -25,12 +25,12 @@ const FormComponent = ({ info, setInfo, handleFormSubmit }) => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <code>{"<Rifat />"}</code>
+              <code>{"<Esat />"}</code>
               <span className="design header"> design</span>
             </a>
           </div>
         </div>
-        <h2 className="contact-header">Addd Contact</h2>
+        <h2 className="contact-header">Add Contact</h2>
         <Form size="large" onSubmit={handleFormSubmit}>
           <Segment stacked>
             <Form.Input
